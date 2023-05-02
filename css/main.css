@@ -108,6 +108,11 @@ body {
 /*
  * Footer
  */
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 .mastfoot {
   color: #999;
   /* IE8 proofing */
